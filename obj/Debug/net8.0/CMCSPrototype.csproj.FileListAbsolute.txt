@@ -1,0 +1,101 @@
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\bin\Debug\net8.0\appsettings.json
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\bin\Debug\net8.0\CMCSPrototype.staticwebassets.runtime.json
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\bin\Debug\net8.0\CMCSPrototype.staticwebassets.endpoints.json
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\bin\Debug\net8.0\CMCSPrototype.exe
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\bin\Debug\net8.0\CMCSPrototype.deps.json
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\bin\Debug\net8.0\CMCSPrototype.runtimeconfig.json
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\bin\Debug\net8.0\CMCSPrototype.dll
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\bin\Debug\net8.0\CMCSPrototype.pdb
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\obj\Debug\net8.0\CMCSPrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\obj\Debug\net8.0\CMCSPrototype.AssemblyInfoInputs.cache
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\obj\Debug\net8.0\CMCSPrototype.AssemblyInfo.cs
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\obj\Debug\net8.0\CMCSPrototype.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\obj\Debug\net8.0\CMCSPrototype.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\obj\Debug\net8.0\CMCSPrototype.RazorAssemblyInfo.cache
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\obj\Debug\net8.0\CMCSPrototype.RazorAssemblyInfo.cs
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\obj\Debug\net8.0\scopedcss\bundle\CMCSPrototype.styles.css
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\obj\Debug\net8.0\scopedcss\projectbundle\CMCSPrototype.bundle.scp.css
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\obj\Debug\net8.0\staticwebassets\msbuild.CMCSPrototype.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\obj\Debug\net8.0\staticwebassets\msbuild.CMCSPrototype.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\obj\Debug\net8.0\staticwebassets\msbuild.build.CMCSPrototype.props
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CMCSPrototype.props
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CMCSPrototype.props
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\obj\Debug\net8.0\CMCSPrototype.dll
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\obj\Debug\net8.0\refint\CMCSPrototype.dll
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\obj\Debug\net8.0\CMCSPrototype.pdb
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\obj\Debug\net8.0\CMCSPrototype.genruntimeconfig.cache
+C:\Users\RC_Student_lab\Desktop\CMCSPrototype\obj\Debug\net8.0\ref\CMCSPrototype.dll
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\bin\Debug\net8.0\appsettings.json
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\bin\Debug\net8.0\CMCSPrototype.staticwebassets.runtime.json
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\bin\Debug\net8.0\CMCSPrototype.staticwebassets.endpoints.json
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\bin\Debug\net8.0\CMCSPrototype.exe
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\bin\Debug\net8.0\CMCSPrototype.deps.json
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\bin\Debug\net8.0\CMCSPrototype.runtimeconfig.json
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\bin\Debug\net8.0\CMCSPrototype.dll
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\bin\Debug\net8.0\CMCSPrototype.pdb
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\obj\Debug\net8.0\CMCSPrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\obj\Debug\net8.0\CMCSPrototype.AssemblyInfoInputs.cache
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\obj\Debug\net8.0\CMCSPrototype.AssemblyInfo.cs
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\obj\Debug\net8.0\CMCSPrototype.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\obj\Debug\net8.0\CMCSPrototype.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\obj\Debug\net8.0\CMCSPrototype.RazorAssemblyInfo.cache
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\obj\Debug\net8.0\CMCSPrototype.RazorAssemblyInfo.cs
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\obj\Debug\net8.0\scopedcss\bundle\CMCSPrototype.styles.css
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\obj\Debug\net8.0\scopedcss\projectbundle\CMCSPrototype.bundle.scp.css
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\obj\Debug\net8.0\staticwebassets\msbuild.CMCSPrototype.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\obj\Debug\net8.0\staticwebassets\msbuild.CMCSPrototype.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\obj\Debug\net8.0\staticwebassets\msbuild.build.CMCSPrototype.props
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CMCSPrototype.props
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CMCSPrototype.props
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\obj\Debug\net8.0\CMCSPrototype.dll
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\obj\Debug\net8.0\refint\CMCSPrototype.dll
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\obj\Debug\net8.0\CMCSPrototype.pdb
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\obj\Debug\net8.0\CMCSPrototype.genruntimeconfig.cache
+C:\Users\RC_Student_lab\Music\CMCSPrototype10\obj\Debug\net8.0\ref\CMCSPrototype.dll
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\bin\Debug\net8.0\appsettings.json
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\bin\Debug\net8.0\CMCSPrototype.staticwebassets.runtime.json
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\bin\Debug\net8.0\CMCSPrototype.staticwebassets.endpoints.json
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\bin\Debug\net8.0\CMCSPrototype.exe
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\bin\Debug\net8.0\CMCSPrototype.deps.json
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\bin\Debug\net8.0\CMCSPrototype.runtimeconfig.json
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\bin\Debug\net8.0\CMCSPrototype.dll
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\bin\Debug\net8.0\CMCSPrototype.pdb
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\obj\Debug\net8.0\CMCSPrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\obj\Debug\net8.0\CMCSPrototype.AssemblyInfoInputs.cache
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\obj\Debug\net8.0\CMCSPrototype.AssemblyInfo.cs
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\obj\Debug\net8.0\CMCSPrototype.csproj.CoreCompileInputs.cache
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\obj\Debug\net8.0\CMCSPrototype.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\obj\Debug\net8.0\CMCSPrototype.RazorAssemblyInfo.cache
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\obj\Debug\net8.0\CMCSPrototype.RazorAssemblyInfo.cs
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\obj\Debug\net8.0\scopedcss\bundle\CMCSPrototype.styles.css
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\obj\Debug\net8.0\scopedcss\projectbundle\CMCSPrototype.bundle.scp.css
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\obj\Debug\net8.0\CMCSPrototype.dll
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\obj\Debug\net8.0\refint\CMCSPrototype.dll
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\obj\Debug\net8.0\CMCSPrototype.pdb
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\obj\Debug\net8.0\CMCSPrototype.genruntimeconfig.cache
+C:\Users\didin\OneDrive\Desktop\My C# programming\CMCSPrototype10 Didi\ST10441052 Kutlwano Didintle Mokgoro PROG6212\obj\Debug\net8.0\ref\CMCSPrototype.dll
